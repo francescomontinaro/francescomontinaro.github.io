@@ -12,11 +12,13 @@
         width: 100%;
 
         img {
-            height: auto;
+            height: 200px;
+            max-width:500px;
+            max-height:500px;
             position: relative;
-                left: -25%;
-                top: -5%;
-            width: 500px;
+                left: 0%;
+                top: 0%;
+            width: 100%;
         }
 
         a {

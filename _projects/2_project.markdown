@@ -1,55 +1,48 @@
 ---
 layout: page
-title: Project 2
-description: a project with a background image
-img: /assets/img/2.jpg
+title: The historical admixture dynamics of Americas
+description:
+img: /assets/img/America.png
 ---
 
-Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
+with Linda Ongaro, Phd Student at University of Tartu.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+The American continent has been the last to be colonized by our species, in a complex process started at least 15 thousand years ago (kya), which has been recently uncovered by a number of studies harnessing genomic material extracted by archaeological remains.
+Nevertheless, nowadays, a substantial  proportion of individuals living in the Americas is the result of admixture following dramatic migrations and deportation occurred in the last millennia, and culminated in the African slave trade and the European Colonial Era.
 
-    ---
-    layout: page
-    title: Project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+The European Colonial began after the discovery of America in 1492, when different European powers colonised the Southern and Northern region, respectively.
+
+These conquests heavily impacted autochthonous populations living in the area, which were decimated by wars and new pathogens brought by Europeans. It has been estimated that approximately 90% of the Native American population in Mexico perished following the arrival of colonialists; while,other regions such as cold areas in the Andes survived the catastrophe better than elsewhere decreasing by only 20-25% in 30 years.
+The “Atlantic slave Trade”, occurred between the 16th and 19th century, was initiated by Spanish and Portuguese leading to the presence in contemporary American populations of hundreds of millions of people with African ancestry, the largest numbers in Brazil, the Caribbean, and the United States. It has been estimated that more than 12 million African slaves arrived in the new continent during that time. During the first three centuries almost all the slaves came from two coastal areas in Africa: the Bight of Benin and West-Central Africa (www.slavevoyages.org). But when during 19th century the demand increased, the Portuguese government permitted free trade for the Brazilian slavers with all the ports of East Africa; in fact Mozambique became the third largest supplier of slaves in that century, ahead of Biafra and just behind Benin.
+
+Furthermore, later migrations from Southern and Eastern Europe, starting by the end of the 19th century had a large impact on the demography of the continent. More than 32 million individuals reached the United States in the 18th and 19th century and similar estimates are available for other American countries. More than 6 million migrants reached Argentina approx 5 million disembarked in Brazil during the same period.
 
 
-<div class="img_row">
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/1.jpg" alt="" title="example image"/>
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/2.jpg" alt="" title="example image"/>
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/3.jpg" alt="" title="example image"/>
+<div class="img_row" style="height:600px">
+    <img class="col three left" src="{{ site.baseurl }}/assets/img/AmericaSummary.png" alt="" title="example image" />
 </div>
 <div class="col three caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="img_row">
-    <img class="col three left" src="{{ site.baseurl }}/assets/img/5.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-    This image can also have a caption. It's like magic.
+    The main European and African contributors of American ancestry, as inferred in Montinaro et al. 2015. Nat Comms.  
 </div>
 
-You can also put regular text between your rows of images. Say you wanted to write a little bit about your project before you posted the rest of the images. You describe how you toiled, sweated, *bled* for your project, and then.... you reveal it's glory in the next row of images.
+In 2015, supervised by Prof. Cristian Capelli, we released a survey of the legacy of these events in the Americas, providing evidence of a larger variability both in African and European ancestry than previously reported. However, our analysis covered only a small proportion of American populations, preventing a wide appreciation of the impact of the phenomenon.
 
+Luckily, in the four years following our research, several studies made available a large amount of genome-wide data for many American regions.
+Motivated by this spirit, together with Linda Ongaro and several other collaborators, we assembled and analysed a genome-wide dataset of 17,727 worldwide individuals, including more than 11,000 from the Americas and ~6,000 from Africa, Europe, Asia and Oceania.
+In details, in order to provide the most comprehensive overview of the american continent so far, we are harnessing haplotype-based methods to a) reconstruct the fine scale ancestry composition, b) evaluate the time of admixture, c) explore the demographic evolution of different continental ancestries after the admixture and d) assess the extent and magnitude of sex biased gene-flow dynamics.
 
-<div class="img_row">
-    <img class="col two left" src="{{ site.baseurl }}/assets/img/6.jpg" alt="" title="example image"/>
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/11.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+We hope to have some promising results soon(ish), so... stay tuned!
 
+### Useful documents: ###
 
-<br/><br/>
+K, Bryc , Velez C, Karafet T, Moreno-Estrada A, Reynolds A, Auton A, Hammer M, Bustamante CD, and Ostrer H. “Colloquium Paper: Genome-Wide Patterns of Population Structure and Admixture among Hispanic/Latino Populations.,” May 11, 2010. doi:10.1073/pnas.0914618107.
 
+F, Montinaro , Busby GB, Pascali VL, Myers S, Hellenthal G, and Capelli C. “Unravelling the Hidden Ancestry of American Admixed Populations.,” March 24, 2015. doi:10.1038/ncomms7596.
 
-The code is simple. Just add a col class to your image, and another class specifying the width: one, two, or three columns wide. Here's the code for the last row of images above:
+K, Bryc , Durand EY, Macpherson JM, Reich D, and Mountain JL. “The Genetic Ancestry of African Americans, Latinos, and European Americans across the United States.,” January 8, 2015. doi:10.1016/j.ajhg.2014.11.010.
 
-<div class="img_row">
-    <img class="col two left" src="/img/6.jpg"/>
-    <img class="col one left" src="/img/11.jpg"/>
-</div>
+FS, Kehdy , Gouveia MH, Machado M, Magalhães WC, Horimoto AR, Horta BL, Moreira RG, et al. “Origin and Dynamics of Admixture in Brazilians and Its Effect on the Pattern of Deleterious Mutations.,” July 14, 2015. doi:10.1073/pnas.1504447112.
+
+JR, Homburger , Moreno-Estrada A, Gignoux CR, Nelson D, Sanchez E, Ortiz-Tello P, Pons-Estel BA, et al. “Genomic Insights into the Ancestry and Demographic History of South America.,” December 4, 2015. doi:10.1371/journal.pgen.1005602.
+
+JC, Chacón-Duque , Adhikari K, Fuentes-Guajardo M, Mendoza-Revilla J, Acuña-Alonzo V, Barquera R, Quinto-Sánchez M, et al. “Latin Americans Show Wide-Spread Converso Ancestry and Imprint of Local Native Ancestry on Physical Appearance.,” December 19, 2018. doi:10.1038/s41467-018-07748-z.

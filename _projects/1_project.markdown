@@ -1,55 +1,49 @@
 ---
 layout: page
-title: Project 1
-description: a project with a background image
-img: /assets/img/12.jpg
+title: The evolutionary history of Africa
+description:
+img: /assets/img/Africa_lang.png
 ---
 
-Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
+Under the supervision of Prof. Cristian Capelli, University of Oxford 
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Africa has an exceptional geographic, ecological and climatic diversity. This variability is mirrored by the different languages and culture of the people that inhabited it for hundred of thousand years.
+From the genetic perspective, Africa harbours the most basal lineages of our species, which brought to the conclusion that Homo _sapiens_ may have emerged in Africa, in which they lived most of the time, before _"jumping to Eurasia"_ around 100-60,000 years ago.
 
-    ---
-    layout: page
-    title: Project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-
-
-<div class="img_row">
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/1.jpg" alt="" title="example image"/>
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/2.jpg" alt="" title="example image"/>
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/3.jpg" alt="" title="example image"/>
+<div class="img_row" id="mydiv" style="height:350px">
+    <img class="col two left" src="{{ site.baseurl }}/assets/img/Africa_veg.png" alt="" title="Africa vegetation" style="width:50%"/>
+    <img class="col two left" src="{{ site.baseurl }}/assets/img/Africa_lang.png" alt="" title="Africa languages" style="width:50%"/>
 </div>
-<div class="col three caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="img_row">
-    <img class="col three left" src="{{ site.baseurl }}/assets/img/5.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images. Say you wanted to write a little bit about your project before you posted the rest of the images. You describe how you toiled, sweated, *bled* for your project, and then.... you reveal it's glory in the next row of images.
-
-
-<div class="img_row">
-    <img class="col two left" src="{{ site.baseurl }}/assets/img/6.jpg" alt="" title="example image"/>
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/11.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+<div class="col three caption" style="width:100%">
+    The diversity of Africa exemplified by the vegetation and laguage distribution map. Source: Wikimedia Commons.
 </div>
 
 
-<br/><br/>
+From the emergence of our species until today, people in Africa did what they are used to, mating, moving around exploiting new resources, fighting against pathogens and adapt to changing climatic conditions, contributing to create a exceptional degree of variation.
+In the last few years, several researchers studied the genetic of several Sub Saharan populations to understand their evolutionary dynamics, such as their demographic history and the admixture events that have shaped their genetic makeup.
+Importantly, despite climatic conditions, scientists were recently able to extract genetic material from archaeological remains, and although only a bunches of samples extraction were successful, they are already revealing essential information for the understanding of Africa pre-history.
 
 
-The code is simple. Just add a col class to your image, and another class specifying the width: one, two, or three columns wide. Here's the code for the last row of images above:
-
-<div class="img_row">
-    <img class="col two left" src="/img/6.jpg"/>
-    <img class="col one left" src="/img/11.jpg"/>
+<div class="img_row" style="height:50%">
+    <img class="col three left" src="{{ site.baseurl }}/assets/img/Africa_gen.jpg" alt="" title="example image" style="width:90%"/>
 </div>
+<div class="col one caption" style= "width:100%">
+  A schematic view of the genetic variation in modern day Africa.
+</div>
+
+<br/>
+
+Under the supervision of **Cristian Capelli**, and collaborating with European and African scientists, we are currently working in a project with the ambitious aim of providing
+a comprehensive picture of the genetic structure and admixture history of the Continent, through the analysis of genome-wide data.
+
+### Useful documents: ###
+
+Montinaro, F., & Capelli, C. (n.d.). The evolutionary history of Southern Africa. https://doi.org/10.1016/j.gde.2018.11.003
+
+Carina M. Schlebusch , Helena Malmström , Torsten Günther , Per Sjödin , Alexandra Coutinho , Hanna Edlund , … Jakobsson, M. (n.d.).
+
+Pontus Skoglund , Jessica C. Thompson , Mary E. Prendergast , Alissa Mittnik , Kendra Sirak , Mateja Hajdinjak ,...,Reich, D. (n.d.).
+
+George BJ Busby  , Gavin Band, Quang Si Le, Muminatou Jallow, Edith Bougama, Valentina D Mangano, et a.l. Admixture into and within sub-Saharan Africa eLife.
+
+van Dorp, L., Lowes, S., Weigel, J., Ansari-Pour, N., López, S., Mendoza-Revilla, J., … Hellenthal, G. (2019, January 8). Genetic legacy of state centralization in the Kuba Kingdom of the Democratic Republic of the Congo. Proceedings of the National Academy of Sciences. https://doi.org/10.1073/pnas.1811211115
