@@ -31,7 +31,21 @@ Luckily, in the four years following our research, several studies made availabl
 Motivated by this spirit, together with Linda Ongaro and several other collaborators, we assembled and analysed a genome-wide dataset of 17,727 worldwide individuals, including more than 11,000 from the Americas and ~6,000 from Africa, Europe, Asia and Oceania.
 In details, in order to provide the most comprehensive overview of the american continent so far, we are harnessing haplotype-based methods to a) reconstruct the fine scale ancestry composition, b) evaluate the time of admixture, c) explore the demographic evolution of different continental ancestries after the admixture and d) assess the extent and magnitude of sex biased gene-flow dynamics.
 
-We hope to have some promising results soon(ish), so... stay tuned!
+The results of our research can be read [here.](https://www.biorxiv.org/content/10.1101/676437v2).
+
+<div class="img_row" style="height:600px">
+    <img class="col three left" src="{{ site.baseurl }}/assets/img/AfricaContrNew.png" alt="" title="example image" />
+</div>
+<div class="col three caption">
+    The impact of European colonization in the Americas, as inferred in Ongaro et et al. 2019. Nat Comms.  
+</div>
+
+
+
+Comparing the genomic fragments of American individuals with those of different world-wide regions, we were able to uncover a high degree of complexity underlying the genetic contribution of European and African populations, identifying a number of previously unknown sources, both from Europe and Africa. This heterogeneity is also evident under a temporal perspective, with different groups impacting different regions of the Americas at different times, recapitulating the European colonization and the slave deportation historical records.  
+Moreover, we were able to dissect the evolution of European, African and Native American genetic ancestry components after their coming together. We see a general decrease of population size soon after the arrival of European genetic ancestry component in the continent, followed by a general recovery.
+These results will help to characterise and reconstruct the complexity of the dramatic demographic events in the continents, but also to provide a reliable map of the genetic architecture of American groups for future epidemiological and medical studies.
+
 
 ### Useful documents: ###
 
