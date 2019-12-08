@@ -37,7 +37,7 @@ The results of our research can be read [here.](https://www.biorxiv.org/content/
     <img class="col three left" src="{{ site.baseurl }}/assets/img/AfricaContrNew.png" alt="" title="example image" />
 </div>
 <div class="col three caption">
-    The impact of European colonization in the Americas, as inferred in Ongaro et et al. 2019. Nat Comms.  
+    The impact of European colonization in the Americas, as inferred in Ongaro et et al. 2019. Curr. Biol.  
 </div>
 
 
